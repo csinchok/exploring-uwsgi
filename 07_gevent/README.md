@@ -1,3 +1,3 @@
-# Attaching Daemons
+# gevent
 
 uwsgi --ini ./example.ini
