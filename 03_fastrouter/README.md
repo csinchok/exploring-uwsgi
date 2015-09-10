@@ -1,5 +1,7 @@
 # uWSGI Fastrouter
 
+Documentation: [http://uwsgi-docs.readthedocs.org/en/latest/Fastrouter.html](http://uwsgi-docs.readthedocs.org/en/latest/Fastrouter.html)
+
 You'll need to add a line like this to your /etc/hosts:
 
  ```

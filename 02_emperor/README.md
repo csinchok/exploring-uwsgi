@@ -1,5 +1,7 @@
 # uWSGI Emperor Mode
 
+Documentation: [http://uwsgi-docs.readthedocs.org/en/latest/Emperor.html](http://uwsgi-docs.readthedocs.org/en/latest/Emperor.html)
+
 Emperor mode is a really great way to manage multiple apps at a time. On most distros, this is as simple as installing the package `uwsgi-emperor`, and adding some configs to your vassals directory.
 
 To run the examples:
